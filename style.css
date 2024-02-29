@@ -2,6 +2,9 @@
     max-width: 100%;
     padding: 0;
     margin: 0;
+    animation: /* Chrome, Firefox */
+    -webkit-animation, /* Safari, Opera, Edge */
+    -moz-animation /* Gecko (FireFox) */
 }
 .custom-nav{
     .navbar-inner{
